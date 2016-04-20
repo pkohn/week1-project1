@@ -38,4 +38,6 @@ console.log('name');
 
 //10. Create an alert that uses the response from a prompt.
 
+alert("I am an alert box!");
+
 
