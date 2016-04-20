@@ -26,10 +26,10 @@ var b = 3;
 
 console.log("Question 3");
 
-console.log(a+b);
-console.log(a-b);
-console.log(a*b);
-console.log(a/b);
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
 
 
 //4. Declare two variables with string values. 
@@ -39,7 +39,7 @@ console.log(a/b);
 console.log("Question 4");
 var P = "2";
 var R = "3";
-console.log(P+R);
+console.log(P + R);
 
 //5. Add, subract, multiply and divide the strings '5' and '3'. 
 //   Observe the results and know how to explain the results if asked.
