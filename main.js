@@ -12,6 +12,9 @@ console.log(yourAnswer);
 
 //2. Declare a variable called 'name', and then log it to the console.
 
+var = 'name'
+console.log(name);
+
 //3. Declare two variables with number values. 
 //   Add, subtract, multiply and divide them.
 
